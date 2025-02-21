@@ -2,7 +2,4 @@
 
 ## Repo Structure
 
-For each directory, there are two files:
-
-- `README.md`: a summary of the problems and solutions.
-- `solution.go`: the solution to the problems.
+For each readme file, it contains the explanationo of the solution and the code.
