@@ -6,8 +6,8 @@
 
 ## Complexity
 
-Time complexity:
-Space complexity:
+- Time complexity:
+- Space complexity:
 
 ## Keywords
 
