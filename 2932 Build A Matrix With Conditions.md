@@ -1,4 +1,4 @@
-# 2932 Build A Matrix With Conditions
+# 2932 Build a Matrix With Conditions
 
 ## Intuition
 

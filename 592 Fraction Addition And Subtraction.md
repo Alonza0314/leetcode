@@ -1,4 +1,4 @@
-# 592 Fraction Addition And Subtraction
+# 592 Fraction Addition and Subtraction
 
 ## Intuition
 
