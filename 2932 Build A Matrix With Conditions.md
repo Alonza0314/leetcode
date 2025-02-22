@@ -6,7 +6,7 @@ Think is problem as a "GRAPH" problem. The first and second number in x-conditio
 
 ## Approach
 
-F**irst**, we can convert the x-conditions as a graph. I store the graph as four parts: number of vertices \ adjacency list \ roots whose indegree are '0' \ indegree of each vertice.
+**First**, we can convert the x-conditions as a graph. I store the graph as four parts: number of vertices \ adjacency list \ roots whose indegree are '0' \ indegree of each vertice.
 
 **Second**, go on topological sort on row-Graph and col-Graph. I store the result in a map which indicates {vertice: index in row / col}. In the 'for' loop, g.Roots acts as the queue for BFS. The top of the queue as it is popped out will be put in the order map with the val is which index it would be. And if its adjacent vertice's indegree is decrease to zero, I push this vertice into the queue, i.e. g.Roots.
 
