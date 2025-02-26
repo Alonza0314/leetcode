@@ -14,6 +14,8 @@ Check the indexes in queue is in `k` range; otherwise, remove them.
 
 Finally, take the first index in `queue` and append the corresponding number to the return slice from `nums`.
 
+(`queue` will maintain a large to small list.)
+
 ## Complexity
 
 - Time complexity: O(N)
