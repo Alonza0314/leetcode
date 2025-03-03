@@ -19,7 +19,7 @@ This problem is solved using a greedy algorithm. The core idea is to always choo
         - Update current to farthest
         - If current can reach the end, break the loop
 
-1. Finally, return the minimum number of jumps needed
+3. Finally, return the minimum number of jumps needed
 
 ## Complexity
 
