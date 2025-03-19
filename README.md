@@ -10,6 +10,7 @@
 
 | Number | Title | Solution | Difficulty |
 | - | - | - | - |
+| 24 | Swap Nodes in Pairs | [go](/Medium/24%20Swap%20Nodes%20in%20Pairs.md) | M |
 | 45 | Jump Game II | [go](/Medium/45%20Jump%20Game%20II.md) | M |
 | 50 | Pow(x, n) | [go](/Medium/50%20Pow(x,%20n).md) | M |
 | 135 | Candy | [go](/Hard/135%20Candy.md) | H |
