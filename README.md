@@ -10,7 +10,10 @@
 
 | Number | Title | Solution | Difficulty |
 | - | - | - | - |
+| 24 | Swap Nodes in Pairs | [go](/Medium/24%20Swap%20Nodes%20in%20Pairs.md) | M |
+| 25 | Reverse Nodes in k-Group | [go](/Hard/25%20Reverse%20Nodes%20in%20k-Group.md) | H |
 | 45 | Jump Game II | [go](/Medium/45%20Jump%20Game%20II.md) | M |
+| 50 | Pow(x, n) | [go](/Medium/50%20Pow(x,%20n).md) | M |
 | 135 | Candy | [go](/Hard/135%20Candy.md) | H |
 | 146 | LRU Cache | [go](/Medium/146%20LRU%20Cache.md) | M |
 | 239 | Sliding Window Maximum | [go](/Hard/239%20Sliding%20Window%20Maximum.md) | H |
@@ -24,4 +27,3 @@
 | 1395 | Count Number of Trams | [go](/Medium/1395%20Count%20Number%20of%20Teams.md) | M |
 | 2366 | Mimimum Replacements to Sort the Array | [go](/Hard/2366%20Minimum%20Replacements%20to%20Sort%20the%20Array.md) | H |
 | 2932 | Build A Matrix with Conditions | [go](/Hard/2932%20Build%20A%20Matrix%20With%20Conditions.md) | H |
-|  |  |  |  |
