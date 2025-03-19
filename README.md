@@ -11,6 +11,7 @@
 | Number | Title | Solution | Difficulty |
 | - | - | - | - |
 | 45 | Jump Game II | [go](/Medium/45%20Jump%20Game%20II.md) | M |
+| 50 | Pow(x, n) | [go](/Medium/50%20Pow(x,%20n).md) | M |
 | 135 | Candy | [go](/Hard/135%20Candy.md) | H |
 | 146 | LRU Cache | [go](/Medium/146%20LRU%20Cache.md) | M |
 | 239 | Sliding Window Maximum | [go](/Hard/239%20Sliding%20Window%20Maximum.md) | H |
