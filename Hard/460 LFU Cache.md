@@ -64,7 +64,6 @@ func newFreq() *frequence {
 }
 
 func (f *frequence) freqDelete(n *node) {
-    fmt.Println(n.val)
     if f.head == n {
         if f.tail == n {
             f.head, f.tail = nil, nil
