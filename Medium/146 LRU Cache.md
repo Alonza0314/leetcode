@@ -31,8 +31,8 @@ The implementation consists of these key components:
 
 ## Complexity
 
-- Time complexity: O(1) for both Get and Put operations
-- Space complexity: O(capacity) - Bounded by cache capacity
+- Time complexity: O(1)
+- Space complexity: O(capacity)
 
 ## Keywords
 
