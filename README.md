@@ -14,6 +14,7 @@
 | 25 | Reverse Nodes in k-Group | [go](/Hard/25%20Reverse%20Nodes%20in%20k-Group.md) | H |
 | 45 | Jump Game II | [go](/Medium/45%20Jump%20Game%20II.md) | M |
 | 50 | Pow(x, n) | [go](/Medium/50%20Pow(x,%20n).md) | M |
+| 105 | Construct Binary Tree from Preorder and Inorder Tranversal | [go](/Medium/105%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Tranversal.md)
 | 135 | Candy | [go](/Hard/135%20Candy.md) | H |
 | 146 | LRU Cache | [go](/Medium/146%20LRU%20Cache.md) | M |
 | 239 | Sliding Window Maximum | [go](/Hard/239%20Sliding%20Window%20Maximum.md) | H |
