@@ -14,9 +14,12 @@
 | 24 | Swap Nodes in Pairs | [go](/Medium/24%20Swap%20Nodes%20in%20Pairs.md) | M |
 | 25 | Reverse Nodes in k-Group | [go](/Hard/25%20Reverse%20Nodes%20in%20k-Group.md) | H |
 | 45 | Jump Game II | [go](/Medium/45%20Jump%20Game%20II.md) | M |
+| 46 | Permutations | [go](/Medium/46%20Permutations.md) | M |
 | 50 | Pow(x, n) | [go](/Medium/50%20Pow(x,%20n).md) | M |
+| 51 | N-Queens | [go](/Hard/51%20N-Queens.md) | H |
 | 105 | Construct Binary Tree from Preorder and Inorder Tranversal | [go](/Medium/105%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Tranversal.md) | M |
 | 135 | Candy | [go](/Hard/135%20Candy.md) | H |
+| 140 | Word Break II | [go](/Hard/140%20Word%20Break%20II.md) | H |
 | 146 | LRU Cache | [go](/Medium/146%20LRU%20Cache.md) | M |
 | 239 | Sliding Window Maximum | [go](/Hard/239%20Sliding%20Window%20Maximum.md) | H |
 | 460 | LFU Cache | [go](/Hard/460%20LFU%20Cache.md) | H |
