@@ -22,9 +22,12 @@
 | 140 | Word Break II | [go](/Hard/140%20Word%20Break%20II.md) | H |
 | 146 | LRU Cache | [go](/Medium/146%20LRU%20Cache.md) | M |
 | 239 | Sliding Window Maximum | [go](/Hard/239%20Sliding%20Window%20Maximum.md) | H |
+| 322 | Coin Change | [go](/Medium/322%20Coin%20Change.md) | M |
 | 460 | LFU Cache | [go](/Hard/460%20LFU%20Cache.md) | H |
 | 592 | Fraction Addition and Subtraction | [go](/Medium/592%20Fraction%20Addition%20and%20Subtraction.md) | M |
+| 752 | Open the Lock | [go](/Medium/752%20Open%20the%20Lock.md) | M |
 | 757 | Set Intersection Size At Least Two | [go](/Hard/757%20Set%20Intersection%20Size%20At%20Least%20Two.md) | H |
+| 815 | Bus Routes | [go](/Hard/815%20Bus%20Routes.md) | H |
 | 765 | Couples Holding Hands | [go](/Hard/765%20Couples%20Holding%20Hands.md) | H |
 | 840 | Magic Squares In Grid | [go](/Medium/840%20Magic%20Squares%20In%20Grid.md) | M |
 | 881 | Boats to Save People | [go](/Medium/881%20Boats%20to%20Save%20People.md) | M |
