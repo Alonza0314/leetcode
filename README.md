@@ -40,4 +40,5 @@
 | 948 | Bag of Tokens | [go](/Medium/948%20Bag%20Of%20Tokens.md) | M |
 | 1395 | Count Number of Trams | [go](/Medium/1395%20Count%20Number%20of%20Teams.md) | M |
 | 2366 | Mimimum Replacements to Sort the Array | [go](/Hard/2366%20Minimum%20Replacements%20to%20Sort%20the%20Array.md) | H |
+| 2742 | Paiting the Walls | [go](/Hard/2742%20Painting%20the%20Walls.md) | H |
 | 2932 | Build A Matrix with Conditions | [go](/Hard/2932%20Build%20A%20Matrix%20With%20Conditions.md) | H |
