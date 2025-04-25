@@ -13,6 +13,7 @@
 | 23 | Merge k Sorted Lists | [go](/Hard/23%20Merge%20k%20Sorted%20Lists.md) | H |
 | 24 | Swap Nodes in Pairs | [go](/Medium/24%20Swap%20Nodes%20in%20Pairs.md) | M |
 | 25 | Reverse Nodes in k-Group | [go](/Hard/25%20Reverse%20Nodes%20in%20k-Group.md) | H |
+| 44 | Wildcard Matching | [go](/Hard/44%20Wildcard%20Matching.md) | H |
 | 45 | Jump Game II | [go](/Medium/45%20Jump%20Game%20II.md) | M |
 | 46 | Permutations | [go](/Medium/46%20Permutations.md) | M |
 | 50 | Pow(x, n) | [go](/Medium/50%20Pow(x,%20n).md) | M |
@@ -25,6 +26,7 @@
 | 236 | Lowest Common Ancestor of a Binary Tree | [go](/Medium/236%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md) | M |
 | 239 | Sliding Window Maximum | [go](/Hard/239%20Sliding%20Window%20Maximum.md) | H |
 | 322 | Coin Change | [go](/Medium/322%20Coin%20Change.md) | M |
+| 435 | Non-overlapping Interval | [go](/Medium/435%20Non-overlapping%20Intervals.md) | M |
 | 460 | LFU Cache | [go](/Hard/460%20LFU%20Cache.md) | H |
 | 592 | Fraction Addition and Subtraction | [go](/Medium/592%20Fraction%20Addition%20and%20Subtraction.md) | M |
 | 752 | Open the Lock | [go](/Medium/752%20Open%20the%20Lock.md) | M |
@@ -38,4 +40,5 @@
 | 948 | Bag of Tokens | [go](/Medium/948%20Bag%20Of%20Tokens.md) | M |
 | 1395 | Count Number of Trams | [go](/Medium/1395%20Count%20Number%20of%20Teams.md) | M |
 | 2366 | Mimimum Replacements to Sort the Array | [go](/Hard/2366%20Minimum%20Replacements%20to%20Sort%20the%20Array.md) | H |
+| 2742 | Paiting the Walls | [go](/Hard/2742%20Painting%20the%20Walls.md) | H |
 | 2932 | Build A Matrix with Conditions | [go](/Hard/2932%20Build%20A%20Matrix%20With%20Conditions.md) | H |
