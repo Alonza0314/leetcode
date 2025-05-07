@@ -14,6 +14,7 @@
 | 24 | Swap Nodes in Pairs | [go](/Medium/24%20Swap%20Nodes%20in%20Pairs.md) | M |
 | 25 | Reverse Nodes in k-Group | [go](/Hard/25%20Reverse%20Nodes%20in%20k-Group.md) | H |
 | 38 | Count and Say | [go](/Medium/38%20Count%20and%20Say.md) | M |
+| 42 | Trapping Rain Water | [go](/Hard/42%20Trapping%20Rain%20Water.md) | H |
 | 44 | Wildcard Matching | [go](/Hard/44%20Wildcard%20Matching.md) | H |
 | 45 | Jump Game II | [go](/Medium/45%20Jump%20Game%20II.md) | M |
 | 46 | Permutations | [go](/Medium/46%20Permutations.md) | M |
@@ -40,6 +41,8 @@
 | 834 | Sum of Distances in Tree | [go](/Hard/834%20Sum%20of%20Distances%20in%20Tree.md) | H |
 | 840 | Magic Squares In Grid | [go](/Medium/840%20Magic%20Squares%20In%20Grid.md) | M |
 | 847 | Shortest Path Visiting All Nodes | [go](/Hard/847%20Shortest%20Path%20Visiting%20All%20Nodes.md) | H |
+| 855 | Exam Room | [go](/Medium/855%20Exam%20Room.md) | M |
+| 875 | Koko Eating Bananas | [go](/Medium/875%20Koko%20Eating%20Bananas.md) | M |
 | 881 | Boats to Save People | [go](/Medium/881%20Boats%20to%20Save%20People.md) | M |
 | 912 | Sort an Array | [go](/Medium/912%20Sort%20an%20Array.md) | M |
 | 948 | Bag of Tokens | [go](/Medium/948%20Bag%20Of%20Tokens.md) | M |
