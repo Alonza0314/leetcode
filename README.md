@@ -28,6 +28,7 @@
 | 210 | Course Schedule II | [go](/Medium/210%20Course%20Schedule%20II.md) | M |
 | 236 | Lowest Common Ancestor of a Binary Tree | [go](/Medium/236%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md) | M |
 | 239 | Sliding Window Maximum | [go](/Hard/239%20Sliding%20Window%20Maximum.md) | H |
+| 312 | Burst Balloons | [go](/Hard/312%20Burst%20Balloons.md) | H |
 | 322 | Coin Change | [go](/Medium/322%20Coin%20Change.md) | M |
 | 416 | Partition Equal Subset Sum | [go](/Medium/416%20Partition%20Equal%20Subset%20Sum.md) | M |
 | 435 | Non-overlapping Interval | [go](/Medium/435%20Non-overlapping%20Intervals.md) | M |
@@ -44,6 +45,7 @@
 | 855 | Exam Room | [go](/Medium/855%20Exam%20Room.md) | M |
 | 875 | Koko Eating Bananas | [go](/Medium/875%20Koko%20Eating%20Bananas.md) | M |
 | 881 | Boats to Save People | [go](/Medium/881%20Boats%20to%20Save%20People.md) | M |
+| 887 | Super Egg Drop | [go](/Hard/887%20Super%20Egg%20Drop.md) | H |
 | 912 | Sort an Array | [go](/Medium/912%20Sort%20an%20Array.md) | M |
 | 948 | Bag of Tokens | [go](/Medium/948%20Bag%20Of%20Tokens.md) | M |
 | 1395 | Count Number of Trams | [go](/Medium/1395%20Count%20Number%20of%20Teams.md) | M |
