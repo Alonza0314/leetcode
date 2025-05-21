@@ -20,6 +20,7 @@
 | 46 | Permutations | [go](/Medium/46%20Permutations.md) | M |
 | 50 | Pow(x, n) | [go](/Medium/50%20Pow(x,%20n).md) | M |
 | 51 | N-Queens | [go](/Hard/51%20N-Queens.md) | H |
+| 73 | Set Matrix Zeroes | [go](/Medium/73%20Set%20Matrix%20Zeroes.md) | M |
 | 105 | Construct Binary Tree from Preorder and Inorder Tranversal | [go](/Medium/105%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Tranversal.md) | M |
 | 124 | Binary Tree Maximum Path Sum | [go](Hard/124%20Binary%20Tree%20Maximum%20Path%20Sum.md) | H |
 | 135 | Candy | [go](/Hard/135%20Candy.md) | H |
