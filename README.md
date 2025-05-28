@@ -27,11 +27,13 @@
 | 140 | Word Break II | [go](/Hard/140%20Word%20Break%20II.md) | H |
 | 146 | LRU Cache | [go](/Medium/146%20LRU%20Cache.md) | M |
 | 210 | Course Schedule II | [go](/Medium/210%20Course%20Schedule%20II.md) | M |
+| 220 | Contains Duplicate III | [go](/Hard/220%20Contains%20Duplicate%20III.md) | H |
 | 236 | Lowest Common Ancestor of a Binary Tree | [go](/Medium/236%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.md) | M |
 | 239 | Sliding Window Maximum | [go](/Hard/239%20Sliding%20Window%20Maximum.md) | H |
 | 312 | Burst Balloons | [go](/Hard/312%20Burst%20Balloons.md) | H |
 | 316 |  Remove Duplicate Letters | [go](/Medium/316.%20Remove%20Duplicate%20Letters.md) | M |
 | 322 | Coin Change | [go](/Medium/322%20Coin%20Change.md) | M |
+| 347 | Top K Frequent Elements | [go](/Medium/347%20Top%20K%20Frequent%20Elements.md) | M |
 | 416 | Partition Equal Subset Sum | [go](/Medium/416%20Partition%20Equal%20Subset%20Sum.md) | M |
 | 435 | Non-overlapping Interval | [go](/Medium/435%20Non-overlapping%20Intervals.md) | M |
 | 460 | LFU Cache | [go](/Hard/460%20LFU%20Cache.md) | H |
@@ -53,6 +55,7 @@
 | 948 | Bag of Tokens | [go](/Medium/948%20Bag%20Of%20Tokens.md) | M |
 | 1209 | Remove All Adjacent Duplicates in String II | [go](/Medium/1209%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.md) | M |
 | 1395 | Count Number of Trams | [go](/Medium/1395%20Count%20Number%20of%20Teams.md) | M |
+| 2071 | Maximum Number of Tasks You Can Assign | [go](/Hard/2071%20Maximum%20Number%20of%20Tasks%20You%20Can%20Assign.md) | H |
 | 2366 | Mimimum Replacements to Sort the Array | [go](/Hard/2366%20Minimum%20Replacements%20to%20Sort%20the%20Array.md) | H |
 | 2444 | Count Subarrays With Fixed Bounds | [go](/Hard/2444%20Count%20Subarrays%20With%20Fixed%20Bounds.md) | H |
 | 2742 | Paiting the Walls | [go](/Hard/2742%20Painting%20the%20Walls.md) | H |
