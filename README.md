@@ -64,4 +64,5 @@
 | 3024 | Type of Triangle | [go](/Easy/3024%20Type%20of%20Triangle.md) | E |
 | 3355 | Zero Array Transformation I | [go](/Medium/3355%20Zero%20Array%20Transformation%20I.md) | M |
 | 3362 | Zero Array Transformation III | [go](/Medium/3362%20Zero%20Array%20Transformation%20III.md) | M |
+| 3373 | Maximize the Number of Target Nodes After Connecting Trees II | [go](/Hard/3373%20Maximize%20the%20Number%20of%20Target%20Nodes%20After%20Connecting%20Trees%20II.md) | H |
 | 3727 | Find the Count of Good Integers | [go](/Hard/3727%20Find%20the%20Count%20of%20Good%20Integers.md) | H |
