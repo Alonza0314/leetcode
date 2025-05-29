@@ -3,6 +3,7 @@
 ## Intuition
 
 The problem requires us to find the difference between two sums:
+
 1. Sum of numbers from 1 to n that are NOT divisible by m
 2. Sum of numbers from 1 to n that are divisible by m
 
