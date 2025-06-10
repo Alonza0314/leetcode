@@ -47,6 +47,7 @@ extra_css:
 
 plugins:
   - search
+  - callouts
   - tags
 
 markdown_extensions:
