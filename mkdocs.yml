@@ -7,25 +7,44 @@ theme:
   name: material
   language: zh-TW
   features:
-    - navigation.tabs
+    - navigation.instant
+    - navigation.tracking
     - navigation.sections
+    - navigation.expand
+    - navigation.indexes
     - navigation.top
+    - toc.follow
+    - header.autohide
     - search.suggest
     - search.highlight
     - content.code.copy
+    - content.code.annotate
   palette:
     - scheme: default
       primary: indigo
-      accent: indigo
+      accent: blue
       toggle:
-        icon: material/brightness-7
+        icon: material/weather-night
         name: Switch to dark mode
     - scheme: slate
       primary: indigo
-      accent: indigo
+      accent: blue
       toggle:
-        icon: material/brightness-4
+        icon: material/weather-sunny
         name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
+
+copyright: Copyright © 2024 Alonza
+
+extra:
+  generator: false
+
+extra_css:
+  - stylesheets/extra.css
 
 plugins:
   - search
@@ -34,6 +53,8 @@ plugins:
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.superfences
@@ -43,9 +64,9 @@ markdown_extensions:
       alternate_style: true
   - attr_list
   - md_in_html
-
-nav:
-  - 首頁: index.md
-  - Easy: Easy/
-  - Medium: Medium/
-  - Hard: Hard/ 
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
