@@ -5,13 +5,12 @@ repo_name: alonza0314/leetcode
 
 theme:
   name: material
-  language: zh-TW
+  language: en
   features:
     - navigation.instant
     - navigation.tracking
     - navigation.sections
     - navigation.expand
-    - navigation.indexes
     - navigation.top
     - toc.follow
     - header.autohide
@@ -38,7 +37,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
 
-copyright: Copyright © 2024 Alonza
+copyright: Copyright © 2025 Alonza
 
 extra:
   generator: false
@@ -70,3 +69,6 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+nav:
+  - Home: index.md
