@@ -1,11 +1,11 @@
 # LeetCode Problem Solutions
 
-!!! note
-    This website contains my LeetCode problem solving records, problems are categorized by difficulty:
-
-    - [Easy](Easy/) - Easy difficulty problems
-    - [Medium](Medium/) - Medium difficulty problems
-    - [Hard](Hard/) - Hard difficulty problems
+> [!Note]
+> This website contains my LeetCode problem solving records, problems are categorized by difficulty:
+>
+> - [Easy](Easy/) - Easy difficulty problems
+> - [Medium](Medium/) - Medium difficulty problems
+> - [Hard](Hard/) - Hard difficulty problems
 
 ## Solution Table
 
@@ -58,10 +58,10 @@
 | 1395 | Count Number of Trams | [go](Medium/1395%20Count%20Number%20of%20Teams.md) | M |
 | 2071 | Maximum Number of Tasks You Can Assign | [go](Hard/2071%20Maximum%20Number%20of%20Tasks%20You%20Can%20Assign.md) | H |
 | 2366 | Mimimum Replacements to Sort the Array | [go](Hard/2366%20Minimum%20Replacements%20to%20Sort%20the%20Array.md) | H |
+| 2392 | Build A Matrix with Conditions | [go](Hard/2392%20Build%20A%20Matrix%20With%20Conditions.md) | H |
 | 2444 | Count Subarrays With Fixed Bounds | [go](Hard/2444%20Count%20Subarrays%20With%20Fixed%20Bounds.md) | H |
 | 2742 | Paiting the Walls | [go](Hard/2742%20Painting%20the%20Walls.md) | H |
 | 2894 | Divisible and Non-divisible Sums Difference | [go](Easy/2894%20Divisible%20and%20Non-divisible%20Sums%20Difference.md) | E |
-| 2932 | Build A Matrix with Conditions | [go](Hard/2932%20Build%20A%20Matrix%20With%20Conditions.md) | H |
 | 3024 | Type of Triangle | [go](Easy/3024%20Type%20of%20Triangle.md) | E |
 | 3355 | Zero Array Transformation I | [go](Medium/3355%20Zero%20Array%20Transformation%20I.md) | M |
 | 3362 | Zero Array Transformation III | [go](Medium/3362%20Zero%20Array%20Transformation%20III.md) | M |
