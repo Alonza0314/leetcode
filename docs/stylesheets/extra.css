@@ -1,0 +1,242 @@
+/* 全局變量 */
+:root {
+    --deep-blue-gradient: linear-gradient(135deg, #1a237e 0%, #283593 100%);
+    --deep-blue-shadow: rgba(26, 35, 126, 0.1);
+}
+
+/* 背景和基礎樣式 */
+[data-md-color-scheme="slate"] {
+    --md-primary-fg-color: #1a237e;
+    --md-primary-fg-color--light: #3949ab;
+    --md-primary-fg-color--dark: #0d47a1;
+    --md-accent-fg-color: #82b1ff;
+}
+
+/* 深色模式下的文字顏色調整 */
+[data-md-color-scheme="slate"] .md-typeset {
+    color: rgba(255, 255, 255, 0.87);
+}
+
+[data-md-color-scheme="slate"] .md-typeset h1 {
+    color: #82b1ff;
+}
+
+[data-md-color-scheme="slate"] .md-typeset h2 {
+    color: #82b1ff;
+}
+
+[data-md-color-scheme="slate"] .md-typeset a {
+    color: #82b1ff;
+}
+
+[data-md-color-scheme="slate"] .md-typeset a:hover {
+    color: #448aff;
+}
+
+[data-md-color-scheme="slate"] .md-nav__link:hover {
+    color: #82b1ff;
+}
+
+[data-md-color-scheme="slate"] .md-nav__link--active {
+    color: #82b1ff;
+}
+
+/* 導航欄樣式 */
+.md-header {
+    background: var(--deep-blue-gradient);
+    box-shadow: 0 2px 4px var(--deep-blue-shadow);
+}
+
+/* 側邊欄樣式 */
+.md-nav__link:hover {
+    color: #2962ff;
+}
+
+.md-nav__link--active {
+    color: #3949ab;
+    font-weight: 600;
+}
+
+/* 代碼塊樣式 */
+.highlight pre {
+    background: #f8f9fa !important;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px var(--deep-blue-shadow);
+}
+
+[data-md-color-scheme="slate"] .highlight pre {
+    background: #1a1a1a !important;
+}
+
+/* 內容區域樣式 */
+.md-typeset h1 {
+    color: #1a237e;
+    font-weight: 700;
+}
+
+.md-typeset h2 {
+    color: #283593;
+}
+
+/* 卡片樣式 */
+.md-typeset .admonition,
+.md-typeset details {
+    border-left: 4px solid #1a237e;
+    border-radius: 4px;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .admonition,
+[data-md-color-scheme="slate"] .md-typeset details {
+    border-left: 4px solid #82b1ff;
+}
+
+/* 搜索框樣式 */
+.md-search__form {
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 4px;
+}
+
+/* 滾動條樣式 */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #1a237e;
+    border-radius: 3px;
+}
+
+[data-md-color-scheme="slate"] ::-webkit-scrollbar-thumb {
+    background: #82b1ff;
+}
+
+/* 標籤頁樣式 */
+.md-tabs {
+    background: var(--deep-blue-gradient);
+}
+
+.md-tabs__link {
+    opacity: 0.7;
+    transition: all 0.2s ease;
+}
+
+.md-tabs__link:hover,
+.md-tabs__link--active {
+    opacity: 1;
+}
+
+/* 鏈接樣式 */
+.md-typeset a {
+    color: #3949ab;
+}
+
+.md-typeset a:hover {
+    color: #2962ff;
+}
+
+/* 表格樣式 */
+.md-typeset table:not([class]) th {
+    background: #e8eaf6;
+    color: #1a237e;
+}
+
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
+    background: rgba(130, 177, 255, 0.1);
+    color: #82b1ff;
+}
+
+/* 代碼高亮 */
+.highlight .hll {
+    background: #e8eaf6 !important;
+}
+
+[data-md-color-scheme="slate"] .highlight .hll {
+    background: rgba(130, 177, 255, 0.1) !important;
+}
+
+/* 頁面切換動畫 */
+.md-content__inner {
+    animation: fadeIn 0.3s ease-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* 頁腳樣式 */
+.md-footer {
+    background: var(--deep-blue-gradient);
+}
+
+.md-footer-meta {
+    background: rgba(0, 0, 0, 0.1);
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.md-footer__inner {
+    padding: 0.5rem;
+}
+
+.md-footer-meta__inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem 0;
+}
+
+.md-copyright {
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 0.8rem;
+    text-align: center;
+    width: 100%;
+    margin-bottom: 0.5rem;
+}
+
+.md-copyright__highlight {
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: 500;
+}
+
+.md-copyright:after {
+    display: block;
+    margin-top: 0.5rem;
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 0.8rem;
+}
+
+.md-social {
+    padding: 0.5rem 0;
+    text-align: center;
+}
+
+.md-social__link {
+    margin: 0 0.3rem;
+    opacity: 0.7;
+    transition: opacity 0.2s ease;
+}
+
+.md-social__link:hover {
+    opacity: 1;
+}
+
+/* 深色模式下的頁腳樣式 */
+[data-md-color-scheme="slate"] .md-footer {
+    background: linear-gradient(135deg, #1a237e 0%, #1e3799 100%);
+}
+
+[data-md-color-scheme="slate"] .md-footer-meta {
+    background: rgba(0, 0, 0, 0.2);
+} 
