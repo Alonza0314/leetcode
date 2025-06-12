@@ -17,6 +17,7 @@
 | 4 | Median of Two Sorted Arrays | [go](Hard/4%20Median%20of%20Two%20Sorted%20Arrays.md) | H |
 | 5 | Longest Palindromic Substring | [go](Medium/5%20Longest%20Palindromic%20Substring.md) | M |
 | 6 | Zigzag Conversion | [go](Medium/6%20Zigzag%20Conversion.md) | M |
+| 7 | Reverse Integer | [go](Medium/7%20Reverse%20Integer.md) | M |
 | 23 | Merge k Sorted Lists | [go](Hard/23%20Merge%20k%20Sorted%20Lists.md) | H |
 | 24 | Swap Nodes in Pairs | [go](Medium/24%20Swap%20Nodes%20in%20Pairs.md) | M |
 | 25 | Reverse Nodes in k-Group | [go](Hard/25%20Reverse%20Nodes%20in%20k-Group.md) | H |
