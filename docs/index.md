@@ -38,6 +38,7 @@
 | 386 | Lexicographical Numbers | [go](Medium/386%20Lexicographical%20Numbers.md) | M |
 | 416 | Partition Equal Subset Sum | [go](Medium/416%20Partition%20Equal%20Subset%20Sum.md) | M |
 | 435 | Non-overlapping Interval | [go](Medium/435%20Non-overlapping%20Intervals.md) | M |
+| 440 | K-th Smallest in Lexicographical Order | [go](Hard/440%20K-th%20Smallest%20in%20Lexicographical%20Order.md) | H |
 | 460 | LFU Cache | [go](Hard/460%20LFU%20Cache.md) | H |
 | 592 | Fraction Addition and Subtraction | [go](Medium/592%20Fraction%20Addition%20and%20Subtraction.md) | M |
 | 685 | Redundant Connection II | [go](Hard/685%20Redundant%20Connection%20II.md) | H |
