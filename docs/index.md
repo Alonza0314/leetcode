@@ -13,6 +13,7 @@
 | - | - | - | - |
 | 1 | Two Sum | [go](Easy/1%20Two%20Sum.md) | E |
 | 2 | Add Two Numbers | [go](Medium/2%20Add%20Two%20Numbers.md) | M |
+| 3 | Longest Substring Without Repeating Characters | [go](Medium/3%20Longest%20Substring%20Without%20Repeating%20Characters.md) | M |
 | 23 | Merge k Sorted Lists | [go](Hard/23%20Merge%20k%20Sorted%20Lists.md) | H |
 | 24 | Swap Nodes in Pairs | [go](Medium/24%20Swap%20Nodes%20in%20Pairs.md) | M |
 | 25 | Reverse Nodes in k-Group | [go](Hard/25%20Reverse%20Nodes%20in%20k-Group.md) | H |
