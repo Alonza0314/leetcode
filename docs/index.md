@@ -67,6 +67,7 @@
 | 3362 | Zero Array Transformation III | [go](Medium/3362%20Zero%20Array%20Transformation%20III.md) | M |
 | 3372 | Maximize the Number of Target Nodes After Connecting Trees I | [go](Medium/3372%20Maximize%20the%20Number%20of%20Target%20Nodes%20After%20Connecting%20Trees%20I.md) | M |
 | 3373 | Maximize the Number of Target Nodes After Connecting Trees II | [go](Hard/3373%20Maximize%20the%20Number%20of%20Target%20Nodes%20After%20Connecting%20Trees%20II.md) | H |
+| 3423 | Maximum Difference Between Adjacent Elements in a Circular Array | [go](Easy/3423%20Maximum%20Difference%20Between%20Adjacent%20Elements%20in%20a%20Circular%20Array.md) | E |
 | 3442 | Maximum Difference Between Even and Odd Frequency I | [go](Easy/3442%20Maximum%20Difference%20Between%20Even%20and%20Odd%20Frequency%20I.md) | E |
 | 3727 | Find the Count of Good Integers | [go](Hard/3727%20Find%20the%20Count%20of%20Good%20Integers.md) | H |
 
