@@ -35,6 +35,7 @@
 | 316 |  Remove Duplicate Letters | [go](Medium/316.%20Remove%20Duplicate%20Letters.md) | M |
 | 322 | Coin Change | [go](Medium/322%20Coin%20Change.md) | M |
 | 347 | Top K Frequent Elements | [go](Medium/347%20Top%20K%20Frequent%20Elements.md) | M |
+| 386 | Lexicographical Numbers | [go](Medium/386%20Lexicographical%20Numbers.md) | M |
 | 416 | Partition Equal Subset Sum | [go](Medium/416%20Partition%20Equal%20Subset%20Sum.md) | M |
 | 435 | Non-overlapping Interval | [go](Medium/435%20Non-overlapping%20Intervals.md) | M |
 | 460 | LFU Cache | [go](Hard/460%20LFU%20Cache.md) | H |
