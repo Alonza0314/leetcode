@@ -18,6 +18,7 @@
 | 5 | Longest Palindromic Substring | [go](Medium/5%20Longest%20Palindromic%20Substring.md) | M |
 | 6 | Zigzag Conversion | [go](Medium/6%20Zigzag%20Conversion.md) | M |
 | 7 | Reverse Integer | [go](Medium/7%20Reverse%20Integer.md) | M |
+| 8 | String to Integer (atoi) | [go](Medium/8%20String%20to%20Integer%20(atoi).md) | M |
 | 23 | Merge k Sorted Lists | [go](Hard/23%20Merge%20k%20Sorted%20Lists.md) | H |
 | 24 | Swap Nodes in Pairs | [go](Medium/24%20Swap%20Nodes%20in%20Pairs.md) | M |
 | 25 | Reverse Nodes in k-Group | [go](Hard/25%20Reverse%20Nodes%20in%20k-Group.md) | H |
