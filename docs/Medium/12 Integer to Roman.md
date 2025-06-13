@@ -17,7 +17,7 @@ The key insight is that Roman numerals follow specific patterns and rules. We ca
 
 ## Complexity
 
-- Time complexity: O(1)
+- Time complexity: O(n)
 - Space complexity: O(1)
 
 ## Keywords
