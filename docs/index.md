@@ -24,6 +24,7 @@
 | 11 | Container With Most Water | [go](Medium/11%20Container%20With%20Most%20Water.md) | M |
 | 12 | Integer to Roman | [go](Medium/12%20Integer%20to%20Roman.md) | M |
 | 13 | Roman to Integer | [go](Easy/13%20Roman%20to%20Integer.md) | E |
+| 14 | Longest Common Prefix | [go](Easy/14%20Longest%20Common%20Prefix.md) | E |
 | 23 | Merge k Sorted Lists | [go](Hard/23%20Merge%20k%20Sorted%20Lists.md) | H |
 | 24 | Swap Nodes in Pairs | [go](Medium/24%20Swap%20Nodes%20in%20Pairs.md) | M |
 | 25 | Reverse Nodes in k-Group | [go](Hard/25%20Reverse%20Nodes%20in%20k-Group.md) | H |
