@@ -76,6 +76,7 @@
 | 1209 | Remove All Adjacent Duplicates in String II | [go](Medium/1209%20Remove%20All%20Adjacent%20Duplicates%20in%20String%20II.md) | M |
 | 1395 | Count Number of Trams | [go](Medium/1395%20Count%20Number%20of%20Teams.md) | M |
 | 2071 | Maximum Number of Tasks You Can Assign | [go](Hard/2071%20Maximum%20Number%20of%20Tasks%20You%20Can%20Assign.md) | H |
+| 2294 | Partition Array Such That Maximum Difference Is K | [go](Medium/2294%20Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K.md) | M |
 | 2366 | Mimimum Replacements to Sort the Array | [go](Hard/2366%20Minimum%20Replacements%20to%20Sort%20the%20Array.md) | H |
 | 2392 | Build A Matrix with Conditions | [go](Hard/2392%20Build%20A%20Matrix%20With%20Conditions.md) | H |
 | 2444 | Count Subarrays With Fixed Bounds | [go](Hard/2444%20Count%20Subarrays%20With%20Fixed%20Bounds.md) | H |
