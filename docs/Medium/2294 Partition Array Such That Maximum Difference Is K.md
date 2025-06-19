@@ -7,7 +7,9 @@ The main idea is to group the numbers in such a way that the difference between 
 ## Approach
 
 First, sort the input array.
+
 Then, iterate through the sorted array and start a new group whenever the current number exceeds the smallest number in the current group by more than K. Each time this happens, increment the group count and update the starting point of the new group.
+
 At the end, add one to the result to account for the last group.
 
 ## Complexity
@@ -17,7 +19,8 @@ At the end, add one to the result to account for the last group.
 
 ## Keywords
 
-Greedy, Sorting, Array Partition
+- Greedy
+- Sorting
 
 ## Code
 
