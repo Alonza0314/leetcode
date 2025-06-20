@@ -89,6 +89,7 @@
 | 3373 | Maximize the Number of Target Nodes After Connecting Trees II | [go](Hard/3373%20Maximize%20the%20Number%20of%20Target%20Nodes%20After%20Connecting%20Trees%20II.md) | H |
 | 3423 | Maximum Difference Between Adjacent Elements in a Circular Array | [go](Easy/3423%20Maximum%20Difference%20Between%20Adjacent%20Elements%20in%20a%20Circular%20Array.md) | E |
 | 3442 | Maximum Difference Between Even and Odd Frequency I | [go](Easy/3442%20Maximum%20Difference%20Between%20Even%20and%20Odd%20Frequency%20I.md) | E |
+| 3443 | Maximum Manhattan Distance After K Changes | [go](Medium/3443%20Maximum%20Manhattan%20Distance%20After%20K%20Changes.md) | M |
 | 3727 | Find the Count of Good Integers | [go](Hard/3727%20Find%20the%20Count%20of%20Good%20Integers.md) | H |
 
 ## About
