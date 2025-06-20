@@ -82,6 +82,7 @@
 | 2444 | Count Subarrays With Fixed Bounds | [go](Hard/2444%20Count%20Subarrays%20With%20Fixed%20Bounds.md) | H |
 | 2742 | Paiting the Walls | [go](Hard/2742%20Painting%20the%20Walls.md) | H |
 | 2894 | Divisible and Non-divisible Sums Difference | [go](Easy/2894%20Divisible%20and%20Non-divisible%20Sums%20Difference.md) | E |
+| 2966 | Divide Array Into Arrays With Max Difference | [go](Medium/2966%20Divide%20Array%20Into%20Arrays%20With%20Max%20Difference.md) | M |
 | 3024 | Type of Triangle | [go](Easy/3024%20Type%20of%20Triangle.md) | E |
 | 3355 | Zero Array Transformation I | [go](Medium/3355%20Zero%20Array%20Transformation%20I.md) | M |
 | 3362 | Zero Array Transformation III | [go](Medium/3362%20Zero%20Array%20Transformation%20III.md) | M |
