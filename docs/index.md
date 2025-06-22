@@ -77,6 +77,7 @@
 | 1395 | Count Number of Trams | [go](Medium/1395%20Count%20Number%20of%20Teams.md) | M |
 | 2016 | Maximum Difference Between Increasing Elements | [go](Easy/2016%20Maximum%20Difference%20Between%20Increasing%20Elements.md) | E |
 | 2071 | Maximum Number of Tasks You Can Assign | [go](Hard/2071%20Maximum%20Number%20of%20Tasks%20You%20Can%20Assign.md) | H |
+| 2138 | Divide a String Into Groups of Size k | [go](Easy/2138%20Divide%20a%20String%20Into%20Groups%20of%20Size%20k.md) | E |
 | 2294 | Partition Array Such That Maximum Difference Is K | [go](Medium/2294%20Partition%20Array%20Such%20That%20Maximum%20Difference%20Is%20K.md) | M |
 | 2366 | Mimimum Replacements to Sort the Array | [go](Hard/2366%20Minimum%20Replacements%20to%20Sort%20the%20Array.md) | H |
 | 2392 | Build A Matrix with Conditions | [go](Hard/2392%20Build%20A%20Matrix%20With%20Conditions.md) | H |
