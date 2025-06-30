@@ -58,6 +58,7 @@
 | 440 | K-th Smallest in Lexicographical Order | [go](Hard/440%20K-th%20Smallest%20in%20Lexicographical%20Order.md) | H |
 | 460 | LFU Cache | [go](Hard/460%20LFU%20Cache.md) | H |
 | 592 | Fraction Addition and Subtraction | [go](Medium/592%20Fraction%20Addition%20and%20Subtraction.md) | M |
+| 594 | Longest Harmonious Subsequence | [go](Easy/594%20Longest%20Harmonious%20Subsequence.md) | E |
 | 685 | Redundant Connection II | [go](Hard/685%20Redundant%20Connection%20II.md) | H |
 | 752 | Open the Lock | [go](Medium/752%20Open%20the%20Lock.md) | M |
 | 757 | Set Intersection Size At Least Two | [go](Hard/757%20Set%20Intersection%20Size%20At%20Least%20Two.md) | H |
